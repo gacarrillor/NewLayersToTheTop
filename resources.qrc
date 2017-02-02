@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/plugins/NewLayersToTheTop">
+    <file>toTheTop.png</file>
+    <file>default.png</file>
+  </qresource>
+</RCC>
